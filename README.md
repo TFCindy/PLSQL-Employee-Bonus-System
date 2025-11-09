@@ -4,8 +4,6 @@
 
 # 💼 PL/SQL Employee Bonus Management System
 
-# 💼 PL/SQL Employee Bonus Management System
-
 ## 📋 Project Overview
 This project demonstrates **advanced PL/SQL programming concepts** through a practical **Employee Bonus Management System**.  
 The system calculates employee bonuses based on multiple criteria such as **department performance**, **individual achievements**, and **years of service**.  
