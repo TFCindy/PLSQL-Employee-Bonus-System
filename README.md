@@ -1,4 +1,4 @@
-## Names: munezero Cindy
+## Names: MUNEZERO Cindy
 ## Student ID: 27120
 ## Course: Database Development with PL/SQL
 
